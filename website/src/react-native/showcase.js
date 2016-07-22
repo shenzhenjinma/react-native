@@ -210,6 +210,14 @@ var featured = [
     infoTitle: 'Former Gilt CEO Launches New Mobile App',
   },
   {
+    name: '爱海购',
+    icon: 'http://res.aihaitao360.com/app/logo.png',
+    linkAppStore: 'https://itunes.apple.com/cn/app/ai-hai-gou-mai-dao-quan-shi/id1063207227?mt=8',
+    linkPlayStore: 'http://shouji.baidu.com/software/9674192.html',
+    infoLink: 'http://www.aihaitao360.cn',
+    infoTitle: '爱海购 买便全球的好东西',
+  },
+  {
     name: 'QQ',
     icon: 'http://pp.myapp.com/ma_icon/0/icon_6633_1461768893/96',
     linkPlayStore: 'http://android.myapp.com/myapp/detail.htm?apkName=com.tencent.mobileqq',
